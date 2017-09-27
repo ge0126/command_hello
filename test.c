@@ -9,5 +9,7 @@ int main()
 	printf("Tell my 5 world\n");
 	printf("Tell my world\n\n");
 	printf("Tell gaeun world\n");
+	printf("-------------------");
+	printf("Tell open-source\n");
 	return 0;
 }
